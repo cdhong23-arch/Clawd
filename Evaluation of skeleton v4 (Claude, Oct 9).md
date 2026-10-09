@@ -56,7 +56,7 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 
 **3. The challenges are a flat list with almost no biology.** v4 lists five parallel items (evidence, adherence, safety, implementation, unknowns). None leads to the next, and only one mentions biology. The rubric's 60–69 descriptor says: *"Some aspects of the essay may not make good reference to the biology of the proposed alternative treat[ment]"*. v5 orders the challenges evidence → gut → patient → system, keeps biology in each, and ends by weighing them against each other. That weighing is what "evaluate" in the brief means.
 
-**4. Transitions are not planned.** v4 has one "bridge" bullet. Your FLS marker's main writing point was: *"strong individual points are presented without enough bridging explanation"*. In v5, each section before the conclusion ends with a hand-off line, usually a question, that the next section picks up.
+**4. Transitions are not planned.** v4 has one "bridge" bullet. Your FLS marker's main writing point was: *"strong individual points are presented without enough bridging explanation"*. In v5, each paragraph opens with its claim. Each section then ends with a link line that names its logical relation to the next section: cause, contrast, consequence or restriction.
 
 **5. The word budget works against the brief.** In v4, 370 of 1,020 words (36%) come before MD appears. Clinical evidence, the core of task 2, gets the smallest share of the main sections (180 words). v5 cuts 90 words from §1–3 (mostly the duplicate explanation), adds 60 to evidence and challenges and 10 to the conclusion, and totals 1,000.
 
@@ -70,7 +70,7 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 - Clinical response on the symptom index (the primary outcome) was similar: 4/15 vs 3/13.
 - n = 28, the MD group had one-to-one dietitian coaching, and there was no endoscopy.
 
-([doi](https://doi.org/10.1093/ecco-jcc/jjad073)) The diet *held* inflammation low rather than lowering it. That holding effect is exactly the evidence a maintenance thesis needs, and v4 misses it.
+([doi](https://doi.org/10.1093/ecco-jcc/jjad073)) The result suggests that MD *held* inflammation low rather than lowering it. That holding effect is exactly the evidence a maintenance thesis needs, and v4 misses it.
 
 **8. DINE-CD is under-read.** v4 reports similar symptomatic remission (MD 43.5% vs SCD 46.5%) but misses three limits that change what the trial means:
 
@@ -84,7 +84,7 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 
 | Study | Design | Finding | Why it matters |
 |---|---|---|---|
-| Singh et al. (2026) | Meta-analysis | No remission advantage over control diets (OR 0.98, 95% CI 0.74–1.30); no study reported endoscopic or histological outcomes | Strongest evidence against "alternative to drugs" ([doi](https://doi.org/10.1007/s12664-026-01966-w)) |
+| Singh et al. (2026) | Meta-analysis | No remission advantage over control diets (OR 0.98, 95% CI 0.74–1.30); none of its eight studies reported endoscopic or histological outcomes | Strongest evidence against "alternative to drugs" ([doi](https://doi.org/10.1007/s12664-026-01966-w)) |
 | Pasta et al. (2025) | RCT, adult CD | CDED beat MD for clinical remission at 12 weeks (70.8% vs 38.1%) | MD is *not* an equal alternative to every restrictive diet ([doi](https://doi.org/10.1111/eci.14389)) |
 | Nada et al. (2026) | Systematic review, 12 studies | Observational studies favourable; RCT effects on biomarkers mixed and mostly non-significant | Shows the gap between observational and randomised evidence ([doi](https://doi.org/10.1016/j.clnesp.2026.103605)) |
 | Huang et al. (2026) | Pilot RCT, China | A *modified* MD with partial enteral nutrition matched EEN for quality of life after CD surgery | Direct evidence for the cultural-adaptation challenge ([doi](https://doi.org/10.1017/S0007114526106588)) |
@@ -103,7 +103,7 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 
 **13. Bullets are mini-paragraphs.** Some v4 bullets run to two or three sentences. v4 also dropped the bold-label style of your v3 ("**Trigger:** …"). That style matches the tutorial's model plan ("N1303K (Impaired Trafficking): …") and is quick for a tutor to scan, so v5 restores it.
 
-**14. No abstract plan.** v4 only says "Abstract: 100–150 words, written last". Yet the abstract is worth 10%, and it was your FLS marker's first criticism (poor flow, undefined abbreviations). v5 gives a six-move blueprint.
+**14. No abstract plan.** v4 only says "Abstract: 100–150 words, written last". Yet the abstract is worth 10%, and it was your FLS marker's first criticism (poor flow, undefined abbreviations). v5 gives a five-move blueprint: problem, design, main finding, decisive support and boundary, and implication.
 
 **15. No legend plan, and Figure 2 is in the wrong section.** Your FLS marker found the legends "not consistently effective": one was too long, the other too thin. v4's optional Figure 2 sits under challenges and repeats Figure 1's Western diet vs MD contrast. Its fallback is a table, which may count towards the word limit. v5 moves Figure 2 into the evidence section as an evidence map and adds legend rules.
 
@@ -124,7 +124,7 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 | No thesis | "Alternative" defined in §1, answered in §4 and §6 |
 | Mechanism explained twice | Loop explained once (§2, Figure 1); §3 maps MD onto it |
 | Flat list of challenges | Evidence → gut → patient → system, each with biology, then weighed |
-| Transitions not planned | Each section closes with a hand-off line to the next |
+| Transitions not planned | Claim-first paragraphs; each section closes with a labelled link to the next |
 | AGA, Haskey and DINE-CD misread | Exact wording and numbers, with each study's limits |
 | Evidence not current | 2025–26 meta-analysis, systematic review and RCTs added |
 | n-3 contradiction | Reconciled through dose and host context |
