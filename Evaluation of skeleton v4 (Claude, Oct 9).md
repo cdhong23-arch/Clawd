@@ -28,7 +28,7 @@ Three things keep it below the 70+ descriptors:
 
 - It never decides what "alternative" means, so the conclusion has no position to land on.
 - It misreads or misses the evidence that decides that question.
-- It spends words unevenly: the SCFA mechanism is explained twice, while clinical evidence gets the smallest share.
+- It uses its biology poorly. It explains the SCFA mechanism twice instead of using it to compare the healthy gut with the disrupted gut.
 
 In my judgement, an essay written faithfully from v4 would most likely sit in the **60–69 band for Content**. It would be accurate and organised, but descriptive in places, short of current evidence, and without a clear perspective.
 
@@ -52,13 +52,25 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 
 **1. No position on "alternative".** The thesis is a question ("can MD act as an alternative…?"). The title turns on one ambiguous word. MD could be an alternative *to drugs*, an alternative *to restrictive diets* (exclusive enteral nutrition (EEN), specific carbohydrate diet (SCD), Crohn's disease exclusion diet (CDED)), or an *added long-term strategy*. The evidence gives a different answer for each. That answer is what the top Content band calls an "excellent perspective" and what the top Abstract band calls an "excellent concluding sentence". v4 states a position only in its conclusion ("used alongside drugs rather than replacing them"). The introduction never sets this up as the question the essay will answer.
 
-**2. The same mechanism, explained twice.** §2 explains low fibre → less SCFA → weaker barrier and fewer regulatory T cells (Tregs). §3 explains fibre → more SCFA → stronger barrier and more Tregs. In a 1,000-word essay this mirror image costs about 80–100 words. v5 explains the loop once (§2, with Figure 1) and then maps MD components onto it (§3).
+**2. The same mechanism, explained twice.** §2 explains low fibre → less SCFA → weaker barrier and fewer regulatory T cells (Tregs). §3 explains fibre → more SCFA → stronger barrier and more Tregs. In a 1,000-word essay this mirror image costs about 80–100 words, and it never shows *how* the healthy loop breaks. v5 turns the mirror image into a comparison:
+- §2 contrasts the healthy and disrupted loops node by node.
+- §3 maps each MD component onto the node it restores.
+- A three-panel Figure 1 shows the healthy, disrupted and restored states.
 
 **3. The challenges are a flat list with almost no biology.** v4 lists five parallel items (evidence, adherence, safety, implementation, unknowns). None leads to the next, and only one mentions biology. The rubric's 60–69 descriptor says: *"Some aspects of the essay may not make good reference to the biology of the proposed alternative treat[ment]"*. v5 orders the challenges evidence → gut → patient → system, keeps biology in each, and ends by weighing them against each other. That weighing is what "evaluate" in the brief means.
 
 **4. Transitions are not planned.** v4 has one "bridge" bullet. Your FLS marker's main writing point was: *"strong individual points are presented without enough bridging explanation"*. In v5, each paragraph opens with its claim. Each section then ends with a link line that names its logical relation to the next section: cause, contrast, consequence or restriction.
 
-**5. The word budget works against the brief.** In v4, 370 of 1,020 words (36%) come before MD appears. Clinical evidence, the core of task 2, gets the smallest share of the main sections (180 words). v5 cuts 90 words from §1–3 (mostly the duplicate explanation), adds 60 to evidence and challenges and 10 to the conclusion, and totals 1,000.
+**5. The word budget goes on repetition rather than comparison.** v4's split (mechanism 230 words, clinical evidence 180) is reasonable in size. The problem is that its biology words repeat themselves instead of explaining how the disease arises.
+
+*Correction:* an earlier version of this evaluation called clinical evidence "the core of task 2" and asked for more of it. That was wrong.
+- Task 2 asks for "scientific evidence", which includes mechanistic evidence.
+- The rubric names "biology" five times and never mentions clinical trials.
+
+The current v5 budget is 1,000 words:
+- about 500 on biology (the healthy and disrupted loops, then MD's action on each node);
+- 170 on human evidence;
+- the rest on the introduction, challenges and conclusion.
 
 ### B. Accuracy and currency of the evidence (Content 30%, Quality of sources 20%)
 
@@ -99,13 +111,13 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 
 ### C. Format and rubric mechanics (Layout 20%, Writing 20%, Abstract 10%)
 
-**12. Headings are long, and one says nothing specific.** "How diet feeds the inflammatory loop, and why current drugs leave a gap" has two clauses. The brief wants titles that *"briefly but explicitly describe the contents"*. "Evaluating the challenges of MD as an alternative" does not say which challenges. v5's headings state their content, for example "Clinical evidence: stronger for maintenance than induction".
+**12. Headings are long, and one says nothing specific.** "How diet feeds the inflammatory loop, and why current drugs leave a gap" has two clauses. The brief wants titles that *"briefly but explicitly describe the contents"*. "Evaluating the challenges of MD as an alternative" does not say which challenges. v5's headings state their content, for example "Human evidence: holding remission, not inducing it".
 
 **13. Bullets are mini-paragraphs.** Some v4 bullets run to two or three sentences. v4 also dropped the bold-label style of your v3 ("**Trigger:** …"). That style matches the tutorial's model plan ("N1303K (Impaired Trafficking): …") and is quick for a tutor to scan, so v5 restores it.
 
 **14. No abstract plan.** v4 only says "Abstract: 100–150 words, written last". Yet the abstract is worth 10%, and it was your FLS marker's first criticism (poor flow, undefined abbreviations). v5 gives a five-move blueprint: problem, design, main finding, decisive support and boundary, and implication.
 
-**15. No legend plan, and Figure 2 is in the wrong section.** Your FLS marker found the legends "not consistently effective": one was too long, the other too thin. v4's optional Figure 2 sits under challenges and repeats Figure 1's Western diet vs MD contrast. Its fallback is a table, which may count towards the word limit. v5 moves Figure 2 into the evidence section as an evidence map and adds legend rules.
+**15. No legend plan, and Figure 2 is in the wrong section.** Your FLS marker found the legends "not consistently effective": one was too long, the other too thin. v4's optional Figure 2 sits under challenges and repeats Figure 1's Western diet vs MD contrast. Its fallback is a table, which may count towards the word limit. v5 makes Figure 1 a three-panel comparison of the healthy, disrupted and restored loops. It offers an optional node-by-node evidence map as Figure 2, and it adds legend rules.
 
 **16. No source plan.** Leaving sources out of the *submitted* plan is correct; the tutorial asks for that. But Quality of sources is worth 20%, and v4 gives no way to keep 10–15 current, mostly review sources tied to specific claims. v5 adds a source map in its working notes.
 
@@ -122,7 +134,7 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 | Problem in v4 | Fix in v5 |
 |---|---|
 | No thesis | "Alternative" defined in §1, answered in §4 and §6 |
-| Mechanism explained twice | Loop explained once (§2, Figure 1); §3 maps MD onto it |
+| Mechanism explained twice | Healthy and disrupted loops compared node by node (§2); MD mapped onto each node (§3); three-panel Figure 1 |
 | Flat list of challenges | Evidence → gut → patient → system, each with biology, then weighed |
 | Transitions not planned | Claim-first paragraphs; each section closes with a labelled link to the next |
 | AGA, Haskey and DINE-CD misread | Exact wording and numbers, with each study's limits |
