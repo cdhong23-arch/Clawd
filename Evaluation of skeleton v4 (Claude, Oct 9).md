@@ -53,11 +53,11 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 **1. No position on "alternative".** The thesis is a question ("can MD act as an alternative…?"). The title turns on one ambiguous word. MD could be an alternative *to drugs*, an alternative *to restrictive diets* (exclusive enteral nutrition (EEN), specific carbohydrate diet (SCD), Crohn's disease exclusion diet (CDED)), or an *added long-term strategy*. The evidence gives a different answer for each. That answer is what the top Content band calls an "excellent perspective" and what the top Abstract band calls an "excellent concluding sentence". v4 states a position only in its conclusion ("used alongside drugs rather than replacing them"). The introduction never sets this up as the question the essay will answer.
 
 **2. The same mechanism, explained twice.** §2 explains low fibre → less SCFA → weaker barrier and fewer regulatory T cells (Tregs). §3 explains fibre → more SCFA → stronger barrier and more Tregs. In a 1,000-word essay this mirror image costs about 80–100 words, and it never shows *how* the healthy loop breaks. v5 turns the mirror image into a comparison:
-- A head-to-head comparison map sets out, in one row each, the healthy state, its disruption, the MD repair that answers that exact disruption, and how strong the evidence for that repair is.
-- §2 contrasts the healthy and disrupted loops row by row, keeping both of v3's dietary axes: fibre (short-chain fatty acids) and fat quality (n-6 and n-3 polyunsaturated fatty acids).
-- §3 maps each MD component onto the row it repairs, so every mechanism is stated once and then answered.
+- A head-to-head comparison map sets out, in one row each, the healthy state, its disruption, the MD repair that answers that exact disruption, and how strong the evidence for that repair is. It keeps both of v3's dietary axes: fibre (short-chain fatty acids) and fat quality (n-6 and n-3 polyunsaturated fatty acids).
+- The map's eight rows live in **Figure 1**, whose legend does not count against the word limit. §2 narrates only three paired contrasts, so the biology stays an argument instead of becoming a twenty-four-cell list, which would repeat v4's own failing with better content.
+- §3 then answers each of those three contrasts with the MD component that targets it, so every mechanism is stated once and resolved once.
 - The rows that have no MD repair become the §5 challenges, so the challenges follow from the biology rather than sitting beside it.
-- A three-panel Figure 1 shows the healthy, disrupted and restored states.
+- One row (the restored barrier) has no human readout at all. It stays in the figure, labelled as inferred, and is kept out of the prose, because a tidy table otherwise makes inference look like evidence.
 
 **3. The challenges are a flat list with almost no biology.** v4 lists five parallel items (evidence, adherence, safety, implementation, unknowns). None leads to the next, and only one mentions biology. The rubric's 60–69 descriptor says: *"Some aspects of the essay may not make good reference to the biology of the proposed alternative treat[ment]"*. v5 orders the challenges evidence → the loops MD cannot repair → adherence → access, keeps biology in each, and ends by weighing them against each other. That weighing is what "evaluate" in the brief means.
 
@@ -70,8 +70,8 @@ In my judgement, an essay written faithfully from v4 would most likely sit in th
 - The rubric names "biology" five times and never mentions clinical trials.
 
 The current v5 budget is 1,000 words:
-- about 530 on biology (§2, the healthy and disrupted loops across both dietary axes; §3, MD's action on each node);
-- 160 on human evidence;
+- 510 on biology (§2, the healthy and disrupted loops across both dietary axes; §3, MD's action on each node);
+- 170 on human evidence, which includes one sentence naming the evidence asymmetry between the two axes;
 - the rest on the introduction, challenges and conclusion.
 
 ### B. Accuracy and currency of the evidence (Content 30%, Quality of sources 20%)
@@ -119,7 +119,7 @@ The current v5 budget is 1,000 words:
 
 **14. No abstract plan.** v4 only says "Abstract: 100–150 words, written last". Yet the abstract is worth 10%, and it was your FLS marker's first criticism (poor flow, undefined abbreviations). v5 gives a five-move blueprint: problem, design, main finding, decisive support and boundary, and implication.
 
-**15. No legend plan, and Figure 2 is in the wrong section.** Your FLS marker found the legends "not consistently effective": one was too long, the other too thin. v4's optional Figure 2 sits under challenges and repeats Figure 1's Western diet vs MD contrast. Its fallback is a table, which may count towards the word limit. v5 makes Figure 1 a three-panel comparison of the healthy, disrupted and restored loops. It offers an optional node-by-node evidence map as Figure 2, and it adds legend rules.
+**15. No legend plan, and Figure 2 is in the wrong section.** Your FLS marker found the legends "not consistently effective": one was too long, the other too thin. v4's optional Figure 2 sits under challenges and repeats Figure 1's Western diet vs MD contrast. Its fallback is a table, which may count towards the word limit. v5 makes Figure 1 a three-panel comparison of the healthy, disrupted and restored loops, shades each restored step by evidence level, and adds legend rules. It plans no second figure: shading Figure 1 does that job without spending one of the 15 references.
 
 **16. No source plan.** Leaving sources out of the *submitted* plan is correct; the tutorial asks for that. But Quality of sources is worth 20%, and v4 gives no way to keep 10–15 current, mostly review sources tied to specific claims. v5 adds a source map in its working notes.
 
@@ -137,7 +137,8 @@ The current v5 budget is 1,000 words:
 |---|---|
 | No thesis | "Alternative" defined in §1, answered in §4 and §6 |
 | Mechanism explained twice | Healthy and disrupted loops compared row by row (§2); each MD component mapped onto the row it repairs (§3); head-to-head comparison map; three-panel Figure 1 |
-| Fat biology demoted to one bullet | Both of v3's dietary axes kept as co-equal classical mechanisms: fibre to short-chain fatty acids, and n-6 or n-3 fat to eicosanoids, with human cohort evidence for each |
+| Fat biology demoted to one bullet | Both of v3's dietary axes kept as co-equal mechanisms: fibre to short-chain fatty acids, and n-6 or n-3 fat to eicosanoids. Their evidence is not equally strong, and §4 says so rather than hiding it in the table |
+| Comparison risked becoming a list | The eight-row map runs in Figure 1; the text narrates three paired contrasts and leaves the unevidenced row to the figure |
 | Flat list of challenges | Evidence → gut → patient → system, each with biology, then weighed |
 | Transitions not planned | Claim-first paragraphs; each section closes with a labelled link to the next |
 | AGA, Haskey and DINE-CD misread | Exact wording and numbers, with each study's limits |
